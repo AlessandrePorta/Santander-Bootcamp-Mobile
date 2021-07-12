@@ -1,0 +1,2 @@
+rootProject.name = "Santander-Bootcamp-Mobile"
+include ':app'
